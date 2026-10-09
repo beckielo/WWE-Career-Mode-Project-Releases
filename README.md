@@ -4,9 +4,9 @@ Follow your wrestler's career across Universe and Exhibition, with league tables
 
 ## Windows download
 
-[Download Wrestling League Tracker 2.7.1 for Windows (x64)](https://github.com/beckielo/WWE-Career-Mode-Project-Releases/releases/download/v2.7.1/Wrestling.League.Tracker_2.7.1_x64-setup.exe)
+[Download Wrestling League Tracker 2.8.0 for Windows (x64)](https://github.com/beckielo/WWE-Career-Mode-Project-Releases/releases/download/v2.8.0/Wrestling.League.Tracker_2.8.0_x64-setup.exe)
 
-[Release notes](https://github.com/beckielo/WWE-Career-Mode-Project-Releases/releases/tag/v2.7.1) · [SHA-256 checksum](https://github.com/beckielo/WWE-Career-Mode-Project-Releases/releases/download/v2.7.1/SHA256SUMS.txt)
+[Release notes](https://github.com/beckielo/WWE-Career-Mode-Project-Releases/releases/tag/v2.8.0) · [SHA-256 checksum](https://github.com/beckielo/WWE-Career-Mode-Project-Releases/releases/download/v2.8.0/SHA256SUMS.txt)
 
 Already installed? The app checks for signed updates at startup and asks before installation. Existing careers and installation identity remain compatible with the previous WWE Career Mode Project name.
 
